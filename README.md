@@ -46,7 +46,6 @@ python3 hashrabbit.py
 #### Disclaimer
 
 Usage this program for attacking targets without prior consent is illegal. It's the end user's responsibility to obey allapplicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
-This program is basically rearranged for use only during penetration testing.
 ---
 
 #### Thanks
