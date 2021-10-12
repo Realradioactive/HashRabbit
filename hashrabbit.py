@@ -16,6 +16,7 @@ print("                                     https://github.com/Realradioactive "
 print("--------------------------------------------------------------------------------------------------------------------------")
 print("Donate - BTC -: 1QByZjKJzTqiqKdWLRRsKDu1RFNAF7YD1S ")
 print("Donate - ETH -: 0xb22323451e63cF6b7D4C2C3Fe4939Fe8D5b4483D ")
+print("(Max. 25 separated by newline, format hash[:salt])")
 print("Type exit to exit")
 #bu program https://hashes.com/ u kullanarak hash tanımlaması yapar.
 def temizle():
